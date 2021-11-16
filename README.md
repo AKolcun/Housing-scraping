@@ -7,3 +7,4 @@ This script pulls records from the FF site, then cleans and filters the records.
 The resulting data is then ported into Google DataStudio for easier review.
 
 *NOTE* Since initial development, FF has begun using CloudFlare to impede scraping.
+The script is now non-functional.
