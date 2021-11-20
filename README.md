@@ -8,3 +8,6 @@ The resulting data is then ported into Google DataStudio for easier review.
 
 *NOTE* Since initial development, FF has begun using CloudFlare to impede scraping.
 The script is now non-functional.
+
+
+![alt text](https://github.com/AKolcun/Housing-scraping/blob/main/Report%20examples/Filtered%20Santa%20Monica.PNG "Example Report Capture")
